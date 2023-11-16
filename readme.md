@@ -1,11 +1,11 @@
 # Real-TimeVirtuMate: Interactive Virtual Companion via Wav2lip
 
 ## Overview
-![img1](./pic1.png)
+![img1](./pic1.png){ width: 200px; }
 Our service introduces an innovative virtual companion that leverages the power of audio-driven technology, Wav2Lip, for real-time, interactive experiences. Supporting multiple languages, it's designed to offer a highly engaging and personalized user experience.
 
 ### demo screenshoot
-![img1](./demo1.jpg)
+![img1](./demo1.jpg){ width: 200px; }
 
 ## Key Features
 
