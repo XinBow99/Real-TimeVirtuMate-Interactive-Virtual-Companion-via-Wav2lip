@@ -4,7 +4,7 @@
 <img src="pic1.png" alt="pic1" width="512"/>
 Our service introduces an innovative virtual companion that leverages the power of audio-driven technology, Wav2Lip, for real-time, interactive experiences. Supporting multiple languages, it's designed to offer a highly engaging and personalized user experience.
 
-### demo screenshoot
+### Demo screenshoot
 <img src="demo1.jpg" alt="demo1" width="512"/>
 
 ## Key Features
